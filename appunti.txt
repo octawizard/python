@@ -1,0 +1,20 @@
+linguaggio multi paradigma
+
+tipizzazione dinamica
+
+linguaggio interpretato 
+l'interprete traduce ed esegue
+
+backus -> fortran, '77  Turing Award (ACM),
+parlo' di FL(o FP) invece che di fortran
+
+plasm '93 "la sapienza"
+
+aggiunge tipo di dato geometrico a FL, estensione di sottoinsieme di FL
+
+Plasm trasportato in:
+CLisp
+Scheme
+Erlang
+Python
+(javascript)
